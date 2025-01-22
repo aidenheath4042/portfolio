@@ -4,7 +4,11 @@
 body {
   @apply bg-slate-800 text-neutral-100 antialiased;
   margin: 0;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Jaro', serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  src: url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap')
 }
 
 a {
